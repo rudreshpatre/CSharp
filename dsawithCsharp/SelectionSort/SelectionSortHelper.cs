@@ -26,22 +26,31 @@ namespace SelectionSort
             {
                 throw;
             }
-        }
+        }      
 
-        public static int[] SelectionSort (int[] arr){
-            for (int i = 1; i < arr.Length; i++)
+         public static int[] SelectionSort (int[] arr){
+            for (var i = 0; i < arr.Length; i++)
             {
-                var newValue = arr[i];
-                var j = i;
-                while (j>0 && arr[j-1]>newValue)
+                var start = i;
+                var lowest = i;
+                for (var j = i + 1; j < arr.Length; j++)
                 {
-                    arr[j] = arr[j-1];
-                    j--;
+                    if (arr[lowest] > arr[j])
+                    {
+                        lowest = j;
+                    }
                 }
-                arr[j]=newValue;
+                Swap(arr, start, lowest);
             }
 
             return arr;
+        }
+
+        private static void Swap(int[] arr, int start, int lowest)
+        {
+            var tmp = arr[start];
+            arr[start] = arr[lowest];
+            arr[lowest] = tmp;
         }
 
         public static void PrintArray(int[] arr){
