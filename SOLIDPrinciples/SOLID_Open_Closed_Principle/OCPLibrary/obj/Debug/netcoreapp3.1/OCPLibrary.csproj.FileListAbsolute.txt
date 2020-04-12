@@ -1,0 +1,8 @@
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\OCPLibrary\bin\Debug\netcoreapp3.1\OCPLibrary.deps.json
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\OCPLibrary\bin\Debug\netcoreapp3.1\OCPLibrary.dll
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\OCPLibrary\bin\Debug\netcoreapp3.1\OCPLibrary.pdb
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.csprojAssemblyReference.cache
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.AssemblyInfoInputs.cache
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.AssemblyInfo.cs
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.dll
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.pdb
