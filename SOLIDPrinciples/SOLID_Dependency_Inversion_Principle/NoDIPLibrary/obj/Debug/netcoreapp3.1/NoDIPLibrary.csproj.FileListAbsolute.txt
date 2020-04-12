@@ -1,0 +1,8 @@
+C:\Users\Rudresh\Desktop\Code\SOLID_Dependency_Inversion_Principle\NoDIPLibrary\bin\Debug\netcoreapp3.1\NoDIPLibrary.deps.json
+C:\Users\Rudresh\Desktop\Code\SOLID_Dependency_Inversion_Principle\NoDIPLibrary\bin\Debug\netcoreapp3.1\NoDIPLibrary.dll
+C:\Users\Rudresh\Desktop\Code\SOLID_Dependency_Inversion_Principle\NoDIPLibrary\bin\Debug\netcoreapp3.1\NoDIPLibrary.pdb
+C:\Users\Rudresh\Desktop\Code\SOLID_Dependency_Inversion_Principle\NoDIPLibrary\obj\Debug\netcoreapp3.1\NoDIPLibrary.csprojAssemblyReference.cache
+C:\Users\Rudresh\Desktop\Code\SOLID_Dependency_Inversion_Principle\NoDIPLibrary\obj\Debug\netcoreapp3.1\NoDIPLibrary.AssemblyInfoInputs.cache
+C:\Users\Rudresh\Desktop\Code\SOLID_Dependency_Inversion_Principle\NoDIPLibrary\obj\Debug\netcoreapp3.1\NoDIPLibrary.AssemblyInfo.cs
+C:\Users\Rudresh\Desktop\Code\SOLID_Dependency_Inversion_Principle\NoDIPLibrary\obj\Debug\netcoreapp3.1\NoDIPLibrary.dll
+C:\Users\Rudresh\Desktop\Code\SOLID_Dependency_Inversion_Principle\NoDIPLibrary\obj\Debug\netcoreapp3.1\NoDIPLibrary.pdb

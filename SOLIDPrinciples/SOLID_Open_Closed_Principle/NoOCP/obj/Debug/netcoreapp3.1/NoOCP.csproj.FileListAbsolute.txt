@@ -1,0 +1,7 @@
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\NoOCP\bin\Debug\netcoreapp3.1\NoOCP.deps.json
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\NoOCP\bin\Debug\netcoreapp3.1\NoOCP.dll
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\NoOCP\bin\Debug\netcoreapp3.1\NoOCP.pdb
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\NoOCP\obj\Debug\netcoreapp3.1\NoOCP.AssemblyInfoInputs.cache
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\NoOCP\obj\Debug\netcoreapp3.1\NoOCP.AssemblyInfo.cs
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\NoOCP\obj\Debug\netcoreapp3.1\NoOCP.dll
+C:\Users\Rudresh\Desktop\Code\SOLID_Open_Closed_Principle\NoOCP\obj\Debug\netcoreapp3.1\NoOCP.pdb

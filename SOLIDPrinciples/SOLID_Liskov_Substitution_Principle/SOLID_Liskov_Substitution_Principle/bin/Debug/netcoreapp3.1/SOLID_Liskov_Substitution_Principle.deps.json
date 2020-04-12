@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SOLID_Liskov_Substitution_Principle/1.0.0": {
+        "dependencies": {
+          "LSPLibrary": "1.0.0",
+          "NoLSPLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SOLID_Liskov_Substitution_Principle.dll": {}
+        }
+      },
+      "LSPLibrary/1.0.0": {
+        "runtime": {
+          "LSPLibrary.dll": {}
+        }
+      },
+      "NoLSPLibrary/1.0.0": {
+        "runtime": {
+          "NoLSPLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID_Liskov_Substitution_Principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LSPLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NoLSPLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
